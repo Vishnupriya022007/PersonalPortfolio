@@ -1,0 +1,15 @@
+# Node.js dependencies
+backend/node_modules/
+
+# Environment variables
+backend/.env
+
+# Debug logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
